@@ -1,0 +1,38 @@
+/* Estilos para la tienda en línea */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin: 1em;
+}
+
+.cart {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin: 1em;
+}
+
+.cart-items {
+  list-style: none;
+  padding: 0;
+}
+
+.checkout {
+  background-color: #333;
+  color: white;
+  padding: 0.5em 1em;
+  border: none;
+  cursor: pointer;
+}
