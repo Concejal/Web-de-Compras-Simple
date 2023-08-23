@@ -1,2 +1,2 @@
 # Web-de-Compras-Simple
-La web consta de fallas
+La web consta de fallas múltiples.
